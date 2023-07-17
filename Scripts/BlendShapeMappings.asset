@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -195401722, guid: ee2ec7521a3316b4caf36fd9eb6b81e0, type: 3}
+  m_Name: BlendShapeMappings
+  m_EditorClassIdentifier: 
+  m_Mappings:
+  - m_From: EyeBlinkLeft
+    m_To: shapes.eyeBlink_L
+  - m_From: EyeLookDownLeft
+    m_To: shapes.eyeLookDown_L
+  - m_From: EyeLookInLeft
+    m_To: shapes.eyeLookIn_L
+  - m_From: EyeLookOutLeft
+    m_To: shapes.eyeLookOut_L
+  - m_From: EyeLookUpLeft
+    m_To: shapes.eyeLookUp_L
+  - m_From: EyeSquintLeft
+    m_To: shapes.eyeSquint_L
+  - m_From: EyeWideLeft
+    m_To: shapes.eyeWide_L
+  - m_From: EyeBlinkRight
+    m_To: shapes.eyeBlink_R
+  - m_From: EyeLookDownRight
+    m_To: shapes.eyeLookDown_R
+  - m_From: EyeLookInRight
+    m_To: shapes.eyeLookIn_R
+  - m_From: EyeLookOutRight
+    m_To: shapes.eyeLookOut_R
+  - m_From: EyeLookUpRight
+    m_To: shapes.eyeLookUp_R
+  - m_From: EyeSquintRight
+    m_To: shapes.eyeSquint_R
+  - m_From: EyeWideRight
+    m_To: shapes.eyeWide_R
+  - m_From: JawForward
+    m_To: shapes.jawForward
+  - m_From: JawLeft
+    m_To: shapes.jawLeft
+  - m_From: JawRight
+    m_To: shapes.jawRight
+  - m_From: JawOpen
+    m_To: shapes.jawOpen
+  - m_From: MouthClose
+    m_To: shapes.mouthClose
+  - m_From: MouthFunnel
+    m_To: shapes.mouthFunnel
+  - m_From: MouthPucker
+    m_To: shapes.mouthPucker
+  - m_From: MouthLeft
+    m_To: shapes.mouthLeft
+  - m_From: MouthRight
+    m_To: shapes.mouthRight
+  - m_From: MouthSmileLeft
+    m_To: shapes.mouthSmile_L
+  - m_From: MouthSmileRight
+    m_To: shapes.mouthSmile_R
+  - m_From: MouthFrownLeft
+    m_To: shapes.mouthFrown_L
+  - m_From: MouthFrownRight
+    m_To: shapes.mouthFrown_R
+  - m_From: MouthDimpleLeft
+    m_To: shapes.mouthDimple_L
+  - m_From: MouthDimpleRight
+    m_To: shapes.mouthDimple_R
+  - m_From: MouthStretchLeft
+    m_To: shapes.mouthStretch_L
+  - m_From: MouthStretchRight
+    m_To: shapes.mouthStretch_R
+  - m_From: MouthRollLower
+    m_To: shapes.mouthRollLower
+  - m_From: MouthRollUpper
+    m_To: shapes.mouthRollUpper
+  - m_From: MouthShrugLower
+    m_To: shapes.mouthShrugLower
+  - m_From: MouthShrugUpper
+    m_To: shapes.mouthShrugUpper
+  - m_From: MouthPressLeft
+    m_To: shapes.mouthPress_L
+  - m_From: MouthPressRight
+    m_To: shapes.mouthPress_R
+  - m_From: MouthLowerDownLeft
+    m_To: shapes.mouthLowerDown_L
+  - m_From: MouthLowerDownRight
+    m_To: shapes.mouthLowerDown_R
+  - m_From: MouthUpperUpLeft
+    m_To: shapes.mouthUpperUp_L
+  - m_From: MouthUpperUpRight
+    m_To: shapes.mouthUpperUp_R
+  - m_From: BrowDownLeft
+    m_To: shapes.browDown_L
+  - m_From: BrowDownRight
+    m_To: shapes.browDown_R
+  - m_From: BrowInnerUp
+    m_To: shapes.browInnerUp
+  - m_From: BrowOuterUpLeft
+    m_To: shapes.browOuterUp_L
+  - m_From: BrowOuterUpRight
+    m_To: shapes.browOuterUp_R
+  - m_From: CheekPuff
+    m_To: shapes.cheekPuff
+  - m_From: CheekSquintLeft
+    m_To: shapes.cheekSquint_L
+  - m_From: CheekSquintRight
+    m_To: shapes.cheekSquint_R
+  - m_From: NoseSneerLeft
+    m_To: shapes.noseSneer_L
+  - m_From: NoseSneerRight
+    m_To: shapes.noseSneer_R
+  - m_From: TongueOut
+    m_To: 
+  - m_From: HeadYaw
+    m_To: 
+  - m_From: HeadPitch
+    m_To: 
+  - m_From: HeadRoll
+    m_To: 
+  - m_From: EyeYawLeft
+    m_To: 
+  - m_From: EyePitchLeft
+    m_To: 
+  - m_From: EyeRollLeft
+    m_To: 
+  - m_From: EyeYawRight
+    m_To: 
+  - m_From: EyePitchRight
+    m_To: 
+  - m_From: EyeRollRight
+    m_To: 
